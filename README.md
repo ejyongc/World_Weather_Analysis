@@ -1,2 +1,2 @@
 # World_Weather_Analysis
-World weather analysis with Google API 
+Analysis of World Weather Data utilzing Google API 
